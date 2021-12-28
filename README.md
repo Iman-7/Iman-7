@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Iman Ahmed
-- 👀 I’m interested in problem solving using C++ or Python and building projects with Verilog.    
+- 👀 I’m very passionate in technology-related fields. I am skilled at problem solving using C++ or Python and building projects with Verilog.    
 - 🌱 I’m currently learning web development.
 - 📫 How to reach me: iman.elsadany@aucegypt.edu
