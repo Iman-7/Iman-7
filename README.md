@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Iman Ahmed
-- 👀 I’m very passionate about technology-related fields. I am skilled at problem solving using C++ or Python and building projects with Verilog. I am also interested in data preprocessing using pandas and numpy along with the applications of Machine Learning.
-- 🌱 I’m currently focusing on learning web development along with UX Design.
+- 👀 I’m very passionate about technology-related fields. I am skilled at problem solving using C++, Java or Python and building projects with Verilog. I am also interested in cybersecurity along with the applications of Machine Learning.
+- 🌱 I’m currently focusing on research in Cybersecurity, Digital Forensics, and Machine Learning.
 - 📫 How to reach me: iman.elsadany@aucegypt.edu
