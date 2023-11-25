@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Iman Ahmed
+- 👋 Hi, I’m Iman Attia
 - 👀 I’m very passionate about technology-related fields. I am skilled at problem solving using C++, Java or Python and building projects with Verilog. I am also interested in cybersecurity along with the applications of Machine Learning.
-- 🌱 I’m currently focusing on research in Cybersecurity, Digital Forensics, and Machine Learning.
+- 🌱 I’m currently focusing on research in Computer Systems, Cybersecurity, and Digital Forensics.
 - 📫 How to reach me: iman.elsadany@aucegypt.edu
